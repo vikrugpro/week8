@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    border-radius: 15px;
+    margin: auto;
+}
+header{
+    height:10%;
+}
+.h1{
+    font-size: 5rem;
+    font-weight: 300;
+}
+.container1{
+    background-color: rgb(214, 230, 243); 
+}
+.card{
+    width:19rem;
+    text-align: center;
+}
+img{
+    max-width: 100%;}
+.card-title{
+    font-size: 1.5rem;
+}
+footer{
+    height: 20%;
+    display: flex;
+    justify-content: center;
+
+}
+.dark{
+    background-color: rgb(40, 38, 38);
+}
+.differ{
+    color:white;
+}
+.majority{
+    color: gray;
+}
+.differbig{
+    font-size: 1.2rem;
+}

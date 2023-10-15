@@ -1,0 +1,33 @@
+.fill{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: blue
+}
+.row1{
+    height: 50vh;
+}
+.gallery{
+    height: 100%;
+}
+.titlebuy{
+    height: 100%;
+}
+.title{
+    height: 18%;
+}
+.buybox{
+    height: 80%;
+}
+.row2{
+    height: 20vh;}
+.description{
+    height: 100%;
+}    
+.row3{
+    height: 20vh;
+}
+.related{
+    height: 100%;
+}
